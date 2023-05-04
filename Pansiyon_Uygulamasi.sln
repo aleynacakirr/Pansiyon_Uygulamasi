@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pansiyon_Uygulamasi", "Pansiyon_Uygulamasi\Pansiyon_Uygulamasi.csproj", "{036A4313-A066-4686-94D6-6B54BAD58C5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormlarArasıVeriTransferi", "FormlarArasıVeriTransferi\FormlarArasıVeriTransferi.csproj", "{CD0DA43B-2BDB-48D0-AD86-70C2C5864E17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinamikButonlar", "DinamikButonlar\DinamikButonlar.csproj", "{FF9BA071-42F8-45E9-A491-DBB7FCB95441}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDIFormlar", "MDIFormlar\MDIFormlar.csproj", "{27E54949-17AD-46A8-87DA-8DE7F3BDAD11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{036A4313-A066-4686-94D6-6B54BAD58C5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{036A4313-A066-4686-94D6-6B54BAD58C5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{036A4313-A066-4686-94D6-6B54BAD58C5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{036A4313-A066-4686-94D6-6B54BAD58C5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD0DA43B-2BDB-48D0-AD86-70C2C5864E17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD0DA43B-2BDB-48D0-AD86-70C2C5864E17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD0DA43B-2BDB-48D0-AD86-70C2C5864E17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD0DA43B-2BDB-48D0-AD86-70C2C5864E17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF9BA071-42F8-45E9-A491-DBB7FCB95441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF9BA071-42F8-45E9-A491-DBB7FCB95441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF9BA071-42F8-45E9-A491-DBB7FCB95441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF9BA071-42F8-45E9-A491-DBB7FCB95441}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27E54949-17AD-46A8-87DA-8DE7F3BDAD11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E54949-17AD-46A8-87DA-8DE7F3BDAD11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E54949-17AD-46A8-87DA-8DE7F3BDAD11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E54949-17AD-46A8-87DA-8DE7F3BDAD11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09CAB012-6E45-47F9-A310-6DC508AA80FD}
+	EndGlobalSection
+EndGlobal
